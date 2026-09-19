@@ -1,6 +1,6 @@
 E-Commerce Retail Sales Performance Analytics.
 A Full Business Analytics Project Using SQL Server And Microsoft Excel.
-The Project focused on the link between (revenue and profitability
+The Project focused on the link between (revenue and profitability)
 
 
 
