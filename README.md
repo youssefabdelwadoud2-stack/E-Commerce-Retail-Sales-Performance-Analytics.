@@ -7,7 +7,16 @@ The Project focused on the link between (revenue and profitability)
 <a
     href="https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/ecommerce-sales.html"
     target="_blank"
-    rel="noopener noreferrer">
+    rel="noopener noreferrer"
+    style="
+        display: inline-block;
+        background: #2563eb;
+        color: white;
+        padding: 12px 20px;
+        border-radius: 7px;
+        text-decoration: none;
+        font-weight: bold;
+    ">
 
     View Interactive Excel Dashboard →
 
