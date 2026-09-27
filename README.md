@@ -2,6 +2,10 @@ E-Commerce Retail Sales Performance Analytics.
 A Full Business Analytics Project Using SQL Server And Microsoft Excel.
 The Project focused on the link between (revenue and profitability)
 
+ Interactive Dashboard
+
+[View Interactive Excel Dashboard](https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/ecommerce-sales.html)
+
 
 
 <img width="1920" height="1200" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/c38e459e-7097-46e3-b56e-c6c95cb1b370" />
