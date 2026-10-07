@@ -275,38 +275,59 @@ This is one of the clearest reasons why product analysis needs to include profit
 - Supplies    Net Profit  (-$956)
 - Bookcases   Net Profit  (-$584) 
 
- That mean: Good sales volume does not guarantee good profit.
+That mean: Good sales volume does not guarantee good profit.
  
 These sub categories need more investigation into pricing, discounts, product mix, and costs.
 
-   4- Regional Revenue and Profit Move in Different Directions
-      The East region is more profit efficient than the West, despite lower revenue
-      - East:    revenue ($213,083)   profit ($43,759)    profit margin (20.5%)
-      - West:    revenue ($250,129)   profit ($33,185)    profit margin (13.3%)
-      - Central: revenue ($147,099)   profit ($7,551)     profit margin (5.1%)  is the weakest on profit
-      The West brings in more revenue than the East, but the East has a much stronger profit margin.
-      That mean: The region with the highest revenue is not always the most profitable one.
-      This matters when deciding where to invest for growth.
-      
-   5- High Revenue Does Not Always Mean Positive Customer Profit
-      One customer in this project shows negative transaction level profit
-      - GT-14635 generated about ($8,168) Revenue (-$3,826) lose **
-      This customer's orders brought in a lot of revenue but also produced negative profit at the transaction level.
-      This shows that customer evaluation should look at profit too not just revenue.
-     
-   6- Monthly Revenue and Profit Don't Always Match
-      - March produced a (25%)  margin on ($58,873) revenue (the strongest margin month)
-      - April produced a (2.6%) margin on ($36,522) revenue	
-      That mean: Looking at revenue alone may not show a drop in profit.
-      A month can still look active in sales while profit becomes much weaker.
-      The data does not show the exact cause.
-      Things like discounts, product mix, or promotions may be reasons but these should be checked further, not assumed.
-      
-   7- Shipping Methods Perform Differently
-      - Standard Class: (990) orders  ($49,471) net profit   ($400) AOV
-      - Same Day:       (89) orders   ($3,356)  net profit   ($549) AOV
-      That mean: Same Day has the highest average order value, but it does not bring in the most total profit.
-      This shows a higher AVO does not always mean higher total profit.
+-
+
+4- Regional Revenue and Profit Move in Different Directions
+
+The East region is more profit efficient than the West, despite lower revenue
+- East:    revenue ($213,083)   profit ($43,759)    profit margin (20.5%)
+- West:    revenue ($250,129)   profit ($33,185)    profit margin (13.3%)
+- Central: revenue ($147,099)   profit ($7,551)     profit margin (5.1%)  is the weakest on profit
+
+The West brings in more revenue than the East, but the East has a much stronger profit margin.
+
+That mean: The region with the highest revenue is not always the most profitable one.
+
+This matters when deciding where to invest for growth.
+
+-     
+
+5- High Revenue Does Not Always Mean Positive Customer Profit
+
+One customer in this project shows negative transaction level profit
+- GT-14635 generated about ($8,168) Revenue (-$3,826) lose 
+
+This customer's orders brought in a lot of revenue but also produced negative profit at the transaction level.
+
+This shows that customer evaluation should look at profit too not just revenue.
+
+-
+
+6- Monthly Revenue and Profit Don't Always Match
+- March produced a (25%)  margin on ($58,873) revenue (the strongest margin month)
+- April produced a (2.6%) margin on ($36,522) revenue	
+
+That mean: Looking at revenue alone may not show a drop in profit.
+
+A month can still look active in sales while profit becomes much weaker.
+
+The data does not show the exact cause.
+
+Things like discounts, product mix, or promotions may be reasons but these should be checked further, not assumed.
+
+-
+
+7- Shipping Methods Perform Differently
+- Standard Class: (990) orders  ($49,471) net profit   ($400) AOV
+- Same Day:       (89) orders   ($3,356)  net profit   ($549) AOV
+
+That mean: Same Day has the highest average order value, but it does not bring in the most total profit.
+
+This shows a higher AVO does not always mean higher total profit.
        
 -
 -
