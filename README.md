@@ -370,12 +370,12 @@ Strategic Recommendations
 
 
 Business Impact
-      - Spot revenue that is not turning into real profit at both the category and products.
-      - Find high revenue products using rankings that include profit not just revenue.
-      - Compare regions by how efficient their profit is.
-      - Include profit when judging customer value.
-      - Find months where profit drops even though sales look fine.
-      - Study discounts using real margin data.
+- Spot revenue that is not turning into real profit at both the category and products.
+- Find high revenue products using rankings that include profit not just revenue.
+- Compare regions by how efficient their profit is.
+- Include profit when judging customer value.
+- Find months where profit drops even though sales look fine.
+- Study discounts using real margin data.
 
 -
 -
@@ -401,7 +401,7 @@ Steps Possible With Current Data.
 
 - Add MoM Revenue Growth, Profit Growth, Margin Change to measure the monthly changes already seen.
 
-    Needs additional data
-      1- Customer Analytics 
-      2- Cost/COGS-based margin breakdown
-      3- Forecasting 
+Needs additional data
+1- Customer Analytics 
+2- Cost/COGS-based margin breakdown
+3- Forecasting 
