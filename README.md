@@ -341,31 +341,31 @@ Strategic Recommendations
           
          
 1- Furniture brings in roughly 29% of total revenue but only about 4% of total profit.
-Risk or Opportunity:    More sales growth in Furniture without fixing the margin problem keeps a weak margin category growing
-Recommendation:         Review Pricing, discounting, Product mix, Sub category performance, Product costs
+- Risk or Opportunity:    More sales growth in Furniture without fixing the margin problem keeps a weak margin category growing
+- Recommendation:         Review Pricing, discounting, Product mix, Sub category performance, Product costs
                               Give extra attention to Tables and Bookcases.
-Expected benefit:       Chance to improve category level profit without necessarily selling less.
-Additional data needed: Product level cost (COGS) data would help move from spotting the problem to understanding its real causes.
-Priority:               High.
+- Expected benefit:       Chance to improve category level profit without necessarily selling less.
+- Additional data needed: Product level cost (COGS) data would help move from spotting the problem to understanding its real causes.
+- Priority:               High.
+
+2- specific products are both high revenue and loss making at the same time so rank products using profit not just revenue .
+- Risk or Opportunity:    These products risk being over-promoted if ranked by revenue alone.
+- Recommendation:         Product reports should rank items using (Revenue) (Profit) (Profit Margin) not revenue alone.
+- Expected benefit:       Lowers the risk of promoting products that sell well but hurt overall profit.
+- Priority:               High.
                                       
-   2- specific products are both high revenue and loss making at the same time so rank products using profit not just revenue .
-      Risk or Opportunity:    These products risk being over-promoted if ranked by revenue alone.
-      Recommendation:         Product reports should rank items using (Revenue) (Profit) (Profit Margin) not revenue alone.
-      Expected benefit:       Lowers the risk of promoting products that sell well but hurt overall profit.
-      Priority:               High.
-                                      
-   3- East has about a 20.5% margin versus about 13.3% in the West so why the East Region Performed Better.
-      Risk or Opportunity:    Giving growth money based on revenue risks under funding the more profit efficient region.
-      Recommendation:         Check whether East's stronger margin comes from Product mix, Category mix, Customer segment, Discount levels
+3- East has about a 20.5% margin versus about 13.3% in the West so why the East Region Performed Better.
+- Risk or Opportunity:    Giving growth money based on revenue risks under funding the more profit efficient region.
+- Recommendation:         Check whether East's stronger margin comes from Product mix, Category mix, Customer segment, Discount levels
                               If the reasons are clear see if the same approach can work in lower margin regions.
-      Expected benefit:       More profit smart use of regional growth investment.
-      Priority:               Medium
+- Expected benefit:       More profit smart use of regional growth investment.
+- Priority:               Medium
           
-   4- Central is the weakest region on profit despite mid level revenue brings in about $147K revenue but only about $7.6K profit
-      Risk or Opportunity:    A discounting or product mix pattern specific to Central may be going unnoticed.
-      Recommendation:         Do a specific review of the Central region focusing on Discount levels, Product mix, Sub category, Customer segment mix
-      Expected benefit:       Possible quick margin improvement in a region that is underperforming but not hopeless.
-      Priority:               Medium
+4- Central is the weakest region on profit despite mid level revenue brings in about $147K revenue but only about $7.6K profit
+- Risk or Opportunity:    A discounting or product mix pattern specific to Central may be going unnoticed.
+- Recommendation:         Do a specific review of the Central region focusing on Discount levels, Product mix, Sub category, Customer segment mix
+- Expected benefit:       Possible quick margin improvement in a region that is underperforming but not hopeless.
+- Priority:               Medium
 
 
 Business Impact
