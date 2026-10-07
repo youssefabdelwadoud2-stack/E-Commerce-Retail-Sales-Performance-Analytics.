@@ -293,12 +293,17 @@ Business Impact
 
 
 Next Steps  
-Steps Possible With Current Data
-1- ABC / Pareto Product Analysis
+Steps Possible With Current Data.
+
+ 1  ABC / Pareto Product Analysis
+ 
 - Group products by how much they contribute to revenue and/or profit to find the most important groups.
+
 2- Formal Discount Band Analysis
+
 - Group transactions into discount ranges and compare Revenue, Profit, Profit Margin, Quantity 
 - This gives a clearer view of how discounts relate to profit.
+
 3- Month over Month Analysis 
 - Add MoM Revenue Growth, Profit Growth, Margin Change to measure the monthly changes already seen.
     Needs additional data
