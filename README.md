@@ -145,6 +145,8 @@ SQL Server
 
 
 
+-
+-
 
   
 Microsoft Excel
@@ -207,6 +209,8 @@ Microsoft Excel
                                                               
 <img width="1920" height="1070" alt="4- Profit Page" src="https://github.com/user-attachments/assets/7eb4c791-bd4f-4af1-a580-ba820c95fa3f" />
 
+-
+-
 
 
 The analytical method includes:-
@@ -249,17 +253,14 @@ That mean: Furniture brings in a lot of revenue, but this revenue does not turn 
 This makes Furniture a top priority for a profit review not just a growth category.
       
 2- Some High Revenue Products Actually Lose Money
-
 Four products appear on both the top (10) revenue and bottom (10) profit product lists
-
 - TEC-MA-10004125  Revenue  ($8,000) Profit (-$3,840)
 - TEC-MA-10000822  Revenue ($5,610)  Profit (-$2,720)      
 - OFF-SU-10002881  Revenue  ($11,826) Profit (-$1,233)
 - OFF-BI-10003527  Revenue ($7,372)  Profit (-$1,526)
-
 That mean: Ranking products by revenue alone could lead a manager to promote products that are actually losing money.
-
 This is one of the clearest reasons why product analysis needs to include profit not just revenue.
+
 
 
    3- Four sub-categories lose money despite selling real units
