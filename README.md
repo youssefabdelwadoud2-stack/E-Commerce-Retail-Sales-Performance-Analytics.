@@ -1,32 +1,11 @@
 E-Commerce Retail Sales Performance Analytics.
 A Full Business Analytics Project Using SQL Server And Microsoft Excel.
+
 The Project focused on the link between (revenue and profitability)
 
  Interactive Dashboard
 
 [View Interactive Excel Dashboard](https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/ecommerce-sales.html)
-
-<img width="1920" height="1200" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/c38e459e-7097-46e3-b56e-c6c95cb1b370" />
-
-<img width="1920" height="1200" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/958ef505-8088-4f1e-bb1d-4420bb2d9447" />
-
-<img width="1540" height="1050" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/5fcdbe48-ff3a-4135-9bdf-fa93d51e75b0" />
-
-<img width="1510" height="1050" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/53466be2-69d6-48c1-bf0e-8e68386d6bb6" />
-
-<img width="1513" height="1053" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/3a779f01-b439-4826-a6c6-07cedd2b5ff5" />
-
-<img width="1920" height="1200" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/6c5421bd-e977-4f9f-be83-d93ff5890134" />
-
-<img width="1920" height="1200" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/573b66db-8720-4c40-8159-45b7a7d7c0a5" />
-
-<img width="1920" height="1200" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/bcb4f048-d0b9-4dae-9d1e-e93dcc414705" />
-
-<img width="1920" height="1200" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/7c14835d-29fd-4c47-b2b9-d8fb3dc84730" />
-
-<img width="1920" height="1083" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/59dcbcae-5f0b-4b8c-9cd8-3782ad1a6559" />
-
-<img width="1711" height="1050" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/b8da3bbc-432c-45ae-a007-e5308c26748d" />
 
 
 
@@ -36,7 +15,8 @@ The Project focused on the link between (revenue and profitability)
 Executive Summary:-
 
 
-In retail revenue growth and profit do not always move together. The Project focused on the link between (revenue and profitability).
+In retail revenue growth and profit do not always move together.
+The Project focused on the link between (revenue and profitability).
 A category, product or region can look strong in revenue while quietly losing money underneath.
 This project builds a checked, full-process analytics solution to show that gap clearly the more important business question is:-
  - Where is revenue turning into profit and where is it not?
@@ -128,28 +108,104 @@ Skills And Methodology
 
 
 Methodology:-
+
 1- SQL query that extract, clean, and transform the data and create There view tables ("Fact Sales"), and "Dim(Customer, Product)"
+
 2- Contacted with Microsoft Excel
   For data modeling, did a lot of DAX measures and create ("Calendar Table") and pivot tables to make clear analytics dashboards.
  
 Skills:-
+
 1- SQL : ETL, Views, Case, Aggregation Functions 
+
 2- Microsoft Excel : Data Modeling, Data Clinging, Dax, Power Query, Power Pivot, Pivot table, Calculated Columns, and Data Visualizations.
 
 SQL Server
   - Cleaning and preparing sales data
   - Building Star Schema by creating three views tables:-
       ("Fact Sales"), and "Dim(Customer, Product)"
+
+
+
+                                                              Product View Tabel
+                                                              
+<img width="1510" height="1050" alt="Product View Tabel" src="https://github.com/user-attachments/assets/791d2cc5-bf0f-44c5-a613-e54f66f44290" />
+
+
+
+                                                              Seles View Tabel
+                                                              
+<img width="1540" height="1050" alt="Seles View Tabel " src="https://github.com/user-attachments/assets/798342b6-7afd-4423-90d1-0c29064ea34d" />
+
+
+
+                                                              Customer View Tabel
+                                                              
+<img width="1629" height="1049" alt="Customer View Tabel" src="https://github.com/user-attachments/assets/ba79bbbe-1357-42c4-aa2d-1c868e258327" />
+
+
+
+
   
 Microsoft Excel
   - live connection with SQL Server.
   - Check Data Quality in power query, did some DAX Measures, create "Date Calendar", and make relationships modeling in power query.
+
+
+                                                              Calendar Table Created 
+                                                              
+<img width="1920" height="1051" alt="Calendar Table Created " src="https://github.com/user-attachments/assets/e1c66ace-fc03-4f5f-add8-96d18a208b23" />
+
+
+
+
+
+                                                              Data Modoling Relationships 
+                                                              
+<img width="1920" height="1073" alt="Data Modoling Relationships " src="https://github.com/user-attachments/assets/0561e22e-c2a9-401d-9e53-a034bb1ee830" />
+
+
+
+
+                                                              Some Dax For KPIS Performance 
+                                                              
+<img width="1711" height="1050" alt="Some Dax For KPIS Performance " src="https://github.com/user-attachments/assets/79626759-7d91-4655-807d-967751046349" />
+
+
+
   - Use Pivot table to make clear analytics grafts 
   - Designing 5 connected dashboards  ("Home" Navigation central, "Sales", "Customer", "Product", "Profit")
   - Building KPI cards
   - Bar/Column charts, donut/pie charts, line chart, plot area, and comparison tables
   - Filter panels for each dashboard like (Country, Region, Segment, State, Ship Mode, Dates Group (Month, Quarter, Day))
   - Keeping the same visual style and layout across all dashboards for a connected story
+
+                                                            Sample Home Page Navigation 
+<img width="1920" height="1072" alt="Sample Home Page Navigation " src="https://github.com/user-attachments/assets/c6f9c604-4002-4c02-8d25-e7164a889adc" />
+
+
+
+                                                              1- Sales Page
+                                                              
+<img width="1920" height="1073" alt="1- Sales Page" src="https://github.com/user-attachments/assets/65f803f9-0f7f-4971-94c4-0b0507ec43be" />
+
+
+
+                                                              2- Product Page 
+                                                              
+<img width="1920" height="1077" alt="2- Product Page" src="https://github.com/user-attachments/assets/e406961f-8c7e-4976-99ff-154671e108d5" />
+
+
+
+                                                              3- Customer Page 
+                                                              
+<img width="1920" height="1072" alt="3- Customer Page" src="https://github.com/user-attachments/assets/4f509767-6935-4115-bf48-a711596dcf00" />
+
+
+
+                                                              4- Profit Page 
+                                                              
+<img width="1920" height="1070" alt="4- Profit Page" src="https://github.com/user-attachments/assets/7eb4c791-bd4f-4af1-a580-ba820c95fa3f" />
 
 
 
@@ -187,17 +243,24 @@ Results
    1- High Revenue Does Not Mean High Profit
       Furniture brings in about ($215,388) Revenue but only ($3,439) Profit giving a margin of about (1.6%) 
       Compare this with Technology about (18.6%) margin and Office Supplies about (16.1%) margin
-      That mean: Furniture brings in a lot of revenue, but this revenue does not turn into real profit.
-      This makes Furniture a top priority for a profit review not just a growth category.
+     
+That mean: Furniture brings in a lot of revenue, but this revenue does not turn into real profit.
+   
+This makes Furniture a top priority for a profit review not just a growth category.
       
-   2- Some High Revenue Products Actually Lose Money
-      Four products appear on both the top (10) revenue and bottom (10) profit product lists
-      - TEC-MA-10004125  Revenue  ($8,000) Profit (-$3,840)
-      - TEC-MA-10000822  Revenue ($5,610)  Profit (-$2,720)
-      - OFF-SU-10002881  Revenue  ($11,826) Profit (-$1,233)
-      - OFF-BI-10003527  Revenue ($7,372)  Profit (-$1,526)
-      That mean: Ranking products by revenue alone could lead a manager to promote products that are actually losing money.
-      This is one of the clearest reasons why product analysis needs to include profit not just revenue.
+2- Some High Revenue Products Actually Lose Money
+
+Four products appear on both the top (10) revenue and bottom (10) profit product lists
+
+- TEC-MA-10004125  Revenue  ($8,000) Profit (-$3,840)
+- TEC-MA-10000822  Revenue ($5,610)  Profit (-$2,720)      
+- OFF-SU-10002881  Revenue  ($11,826) Profit (-$1,233)
+- OFF-BI-10003527  Revenue ($7,372)  Profit (-$1,526)
+
+That mean: Ranking products by revenue alone could lead a manager to promote products that are actually losing money.
+
+This is one of the clearest reasons why product analysis needs to include profit not just revenue.
+
 
    3- Four sub-categories lose money despite selling real units
       all show negative net profit.
@@ -305,7 +368,9 @@ Steps Possible With Current Data.
 - This gives a clearer view of how discounts relate to profit.
 
 3- Month over Month Analysis 
+
 - Add MoM Revenue Growth, Profit Growth, Margin Change to measure the monthly changes already seen.
+
     Needs additional data
       1- Customer Analytics 
       2- Cost/COGS-based margin breakdown
