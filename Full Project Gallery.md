@@ -65,5 +65,3 @@
 <img width="1629" height="1049" alt="Customer View Tabel" src="https://github.com/user-attachments/assets/ba79bbbe-1357-42c4-aa2d-1c868e258327" />
 
 
-<img width="1629" height="1049" alt="Customer View Tabel" src="https://github.com/user-attachments/assets/3d985278-e3b5-408a-8c59-b1abce804d07" />
-<img width="1540" height="1050" alt="Seles View Tabel " src="https://github.com/user-attachments/assets/4ab634ff-88bd-403a-83a7-15f66bae57f9" />
