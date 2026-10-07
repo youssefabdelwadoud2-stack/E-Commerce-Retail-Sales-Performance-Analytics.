@@ -340,13 +340,13 @@ This shows a higher AVO does not always mean higher total profit.
 Strategic Recommendations
           
          
-   1- Furniture brings in roughly 29% of total revenue but only about 4% of total profit.
-      Risk or Opportunity:    More sales growth in Furniture without fixing the margin problem keeps a weak margin category growing
-      Recommendation:         Review Pricing, discounting, Product mix, Sub category performance, Product costs
+1- Furniture brings in roughly 29% of total revenue but only about 4% of total profit.
+Risk or Opportunity:    More sales growth in Furniture without fixing the margin problem keeps a weak margin category growing
+Recommendation:         Review Pricing, discounting, Product mix, Sub category performance, Product costs
                               Give extra attention to Tables and Bookcases.
-      Expected benefit:       Chance to improve category level profit without necessarily selling less.
-      Additional data needed: Product level cost (COGS) data would help move from spotting the problem to understanding its real causes.
-      Priority:               High.
+Expected benefit:       Chance to improve category level profit without necessarily selling less.
+Additional data needed: Product level cost (COGS) data would help move from spotting the problem to understanding its real causes.
+Priority:               High.
                                       
    2- specific products are both high revenue and loss making at the same time so rank products using profit not just revenue .
       Risk or Opportunity:    These products risk being over-promoted if ranked by revenue alone.
