@@ -30,6 +30,8 @@ The Project focused on the link between (revenue and profitability)
 
 
 
+-
+-
 
 Executive Summary:-
 
@@ -70,6 +72,11 @@ Some Recommendations:-
  - Audit Furniture pricing/discount strategy and Review pricing, discounting, and terms for loss making and high revenue products.
  - Look into East margin drivers to see if they can be repeated.
 
+-
+-
+-
+-
+-
 
 
 Business Problem
@@ -110,6 +117,11 @@ Key Business Questions is:-
   - How do customer segments differ in sales volume?
   - Do shipping methods differ in order volume, AOV, and profit contribution?
 
+-
+-
+-
+-
+-
 
 
 Skills And Methodology
@@ -161,6 +173,12 @@ Steps of the Project:-
   - Use Power Query DAX Measures, create "Date Calendar", and make relationships modeling.
   - Use Pivot table to make clear analytics graft.
   - Put all the built into Four dashboards designed.
+
+-
+-
+-
+-
+-
 
 
 
@@ -219,6 +237,12 @@ Results
       That mean: Same Day has the highest average order value, but it does not bring in the most total profit.
       This shows a higher AVO does not always mean higher total profit.
        
+-
+-
+-
+-
+-
+
 
 
 Strategic Recommendations
@@ -260,17 +284,23 @@ Business Impact
       - Find months where profit drops even though sales look fine.
       - Study discounts using real margin data.
 
+-
+-
+-
+-
+-
+
 
 
 Next Steps  
-    Steps Possible With Current Data
-      1- ABC / Pareto Product Analysis
-         Group products by how much they contribute to revenue and/or profit to find the most important groups.
-      2- Formal Discount Band Analysis
-         Group transactions into discount ranges and compare Revenue, Profit, Profit Margin, Quantity 
-         This gives a clearer view of how discounts relate to profit.
-      3- Month over Month Analysis 
-         Add MoM Revenue Growth, Profit Growth, Margin Change to measure the monthly changes already seen.
+Steps Possible With Current Data
+1- ABC / Pareto Product Analysis
+- Group products by how much they contribute to revenue and/or profit to find the most important groups.
+2- Formal Discount Band Analysis
+- Group transactions into discount ranges and compare Revenue, Profit, Profit Margin, Quantity 
+- This gives a clearer view of how discounts relate to profit.
+3- Month over Month Analysis 
+- Add MoM Revenue Growth, Profit Growth, Margin Change to measure the monthly changes already seen.
     Needs additional data
       1- Customer Analytics 
       2- Cost/COGS-based margin breakdown
