@@ -17,9 +17,13 @@ Executive Summary:-
 
 
 In retail revenue growth and profit do not always move together.
+
 The Project focused on the link between (revenue and profitability).
+
 A category, product or region can look strong in revenue while quietly losing money underneath.
+
 This project builds a checked, full-process analytics solution to show that gap clearly the more important business question is:-
+
  - Where is revenue turning into profit and where is it not?
  - Where performance needs more investigation?
  - Which products or sub-categories are actually enring and losing money?
@@ -27,10 +31,12 @@ This project builds a checked, full-process analytics solution to show that gap 
 
 I used SQL Server to prepare raw e-commerce transaction retail sales data
   Clinging data and create 3 view table ("Fact Sales"), and "Dim(Customer, Product)"
+
 Contacted with Microsoft Excel
   For data modeling and create ("Calendar Table") and pivot tables to make clear analytics dashboards.
 
 The final result a Five page interactive Excel dashboard:-
+
  - Home     :- Control navigation page?
  - Sales    :- Overall revenue performance?
  - Product  :- Which products create real value and which?
@@ -38,18 +44,21 @@ The final result a Five page interactive Excel dashboard:-
  - Profit   :- where profit is actually being made or lost?
 
 The analysis shows:-
+
  - $733,216 in revenue across 1,525 product and 693 customers.
  - 1,687 orders with 535 AVO, by around 7 quantity per order
  - $93,764 profit with 12.79% profit margin
  - Technology is the best with 50,672 Profit
  - Furniture is the lowest revenue $215,388 with only $3,439 profit (High revenue - low profit) and also a lot of product like that
  - East region brings in less revenue than the West but earns a clearly higher profit margin
+
 The analysis reveals one main: leading in revenue and leading in profit are not the same thing.
 This project helps decision makers see the difference between
    (How much is sold?) (How much revenue comes in?) and (How much profit is actually made?)
        
         
 Some Recommendations:-
+
  - Audit Furniture pricing/discount strategy and Review pricing, discounting, and terms for loss making and high revenue products.
  - Look into East margin drivers to see if they can be repeated.
 
@@ -64,15 +73,20 @@ Business Problem
 
 
 Many retail companies judge performance mainly by revenue, number of orders, and sales growth.
+
 The problem is that these numbers don't always show the full picture.
+
  - A product can have high revenue but still lose money.
  - A region can have more revenue but a lower profit margin.
  - A customer can generate a lot of sales but show negative profit on individual transactions.
+
 Without a solid, checked data model, these problems can stay hidden and decisions may be based only on top line sales.
+
 How can we look at retail performance beyond revenue, to find which
 (products, categories, customers, regions, and operations) actually increased or hurt profit?
 
 So the project was built around these goals:-
+
  - Measure overall sales and profit performance using a controlled, correctly defined set of KPIs.
  - Find high-performing and underperforming products, sub-categories, and categories.
  - Look at customer and segment contribution based on profit, not just revenue.
@@ -232,6 +246,7 @@ The analytical method includes:-
 look on this step
 
 Steps of the Project:-
+
   - Cleaned and combined raw customer and order data in SQL Server.
   - Building sales Analytics View to design three table.
   - Design Star schema. 
@@ -252,8 +267,9 @@ Steps of the Project:-
 Results
    
 1- High Revenue Does Not Mean High Profit
-      Furniture brings in about ($215,388) Revenue but only ($3,439) Profit giving a margin of about (1.6%) 
-      Compare this with Technology about (18.6%) margin and Office Supplies about (16.1%) margin
+
+   - Furniture brings in about ($215,388) Revenue but only ($3,439) Profit giving a margin of about (1.6%) 
+   - Compare this with Technology about (18.6%) margin and Office Supplies about (16.1%) margin
      
 That mean: Furniture brings in a lot of revenue, but this revenue does not turn into real profit.
    
@@ -262,7 +278,9 @@ This makes Furniture a top priority for a profit review not just a growth catego
 -
 
 2- Some High Revenue Products Actually Lose Money
+
 Four products appear on both the top (10) revenue and bottom (10) profit product lists
+
 - TEC-MA-10004125  Revenue  ($8,000) Profit (-$3,840)
 - TEC-MA-10000822  Revenue ($5,610)  Profit (-$2,720)      
 - OFF-SU-10002881  Revenue  ($11,826) Profit (-$1,233)
@@ -291,6 +309,7 @@ These sub categories need more investigation into pricing, discounts, product mi
 4- Regional Revenue and Profit Move in Different Directions
 
 The East region is more profit efficient than the West, despite lower revenue
+
 - East:    revenue ($213,083)   profit ($43,759)    profit margin (20.5%)
 - West:    revenue ($250,129)   profit ($33,185)    profit margin (13.3%)
 - Central: revenue ($147,099)   profit ($7,551)     profit margin (5.1%)  is the weakest on profit
@@ -306,6 +325,7 @@ This matters when deciding where to invest for growth.
 5- High Revenue Does Not Always Mean Positive Customer Profit
 
 One customer in this project shows negative transaction level profit
+
 - GT-14635 generated about ($8,168) Revenue (-$3,826) lose 
 
 This customer's orders brought in a lot of revenue but also produced negative profit at the transaction level.
@@ -315,6 +335,7 @@ This shows that customer evaluation should look at profit too not just revenue.
 -
 
 6- Monthly Revenue and Profit Don't Always Match
+
 - March produced a (25%)  margin on ($58,873) revenue (the strongest margin month)
 - April produced a (2.6%) margin on ($36,522) revenue	
 
@@ -329,6 +350,7 @@ Things like discounts, product mix, or promotions may be reasons but these shoul
 -
 
 7- Shipping Methods Perform Differently
+
 - Standard Class: (990) orders  ($49,471) net profit   ($400) AOV
 - Same Day:       (89) orders   ($3,356)  net profit   ($549) AOV
 
@@ -348,6 +370,7 @@ Strategic Recommendations
           
          
 1- Furniture brings in roughly 29% of total revenue but only about 4% of total profit.
+
 - Risk or Opportunity:    More sales growth in Furniture without fixing the margin problem keeps a weak margin category growing
 - Recommendation:         Review Pricing, discounting, Product mix, Sub category performance, Product costs
                               Give extra attention to Tables and Bookcases.
@@ -355,13 +378,15 @@ Strategic Recommendations
 - Additional data needed: Product level cost (COGS) data would help move from spotting the problem to understanding its real causes.
 - Priority:               High.
 
-2- specific products are both high revenue and loss making at the same time so rank products using profit not just revenue .
+2- specific products are both high revenue and loss making at the same time so rank products using profit not just revenue.
+
 - Risk or Opportunity:    These products risk being over-promoted if ranked by revenue alone.
 - Recommendation:         Product reports should rank items using (Revenue) (Profit) (Profit Margin) not revenue alone.
 - Expected benefit:       Lowers the risk of promoting products that sell well but hurt overall profit.
 - Priority:               High.
                                       
 3- East has about a 20.5% margin versus about 13.3% in the West so why the East Region Performed Better.
+
 - Risk or Opportunity:    Giving growth money based on revenue risks under funding the more profit efficient region.
 - Recommendation:         Check whether East's stronger margin comes from Product mix, Category mix, Customer segment, Discount levels
                               If the reasons are clear see if the same approach can work in lower margin regions.
@@ -369,6 +394,7 @@ Strategic Recommendations
 - Priority:               Medium
           
 4- Central is the weakest region on profit despite mid level revenue brings in about $147K revenue but only about $7.6K profit
+
 - Risk or Opportunity:    A discounting or product mix pattern specific to Central may be going unnoticed.
 - Recommendation:         Do a specific review of the Central region focusing on Discount levels, Product mix, Sub category, Customer segment mix
 - Expected benefit:       Possible quick margin improvement in a region that is underperforming but not hopeless.
@@ -376,6 +402,7 @@ Strategic Recommendations
 
 
 Business Impact
+
 - Spot revenue that is not turning into real profit at both the category and products.
 - Find high revenue products using rankings that include profit not just revenue.
 - Compare regions by how efficient their profit is.
@@ -392,6 +419,7 @@ Business Impact
 
 
 Next Steps  
+
 Steps Possible With Current Data.
 
  1  ABC / Pareto Product Analysis
