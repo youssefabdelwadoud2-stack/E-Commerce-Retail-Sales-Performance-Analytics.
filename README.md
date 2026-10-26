@@ -82,17 +82,23 @@ So the project was built around these goals:-
  - Turn findings into clear, evidence-based, prioritized business recommendations.
 
 Key Business Questions is:-
+
 1-Executive Performance:-
+
   - What is total revenue and profit? and What is the overall profit margin? and AVO?
   - How many unique orders and customers are there?
   - Which states and cities bring in the most revenue? How does revenue change month to month?
   - How does profit performance by region compare to revenue performance by region?
+    
 2-Product and Category:-
+
   - Which 10 top and bottom products by revenue? and profit?
   - Which products have high revenue but negative profit?
   - Which categories and sub-categories are profitable, and which lose money?
   - How does average discount level relate to profit margin by category?
+
 3-Customer:-
+
   - Which customers generate the most revenue? and profit?
   - Does high revenue always mean positive transaction level profit?
   - How do customer segments differ in sales volume?
