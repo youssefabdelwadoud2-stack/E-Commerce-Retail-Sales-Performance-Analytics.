@@ -148,19 +148,19 @@ SQL Server
 
 
 
-                                                              Product View Tabel
+                                       Product View Tabel
                                                               
 <img width="1510" height="1050" alt="Product View Tabel" src="https://github.com/user-attachments/assets/791d2cc5-bf0f-44c5-a613-e54f66f44290" />
 
+-
 
-
-                                                              Seles View Tabel
+                                      Seles View Tabel
                                                               
 <img width="1540" height="1050" alt="Seles View Tabel " src="https://github.com/user-attachments/assets/798342b6-7afd-4423-90d1-0c29064ea34d" />
 
+-
 
-
-                                                              Customer View Tabel
+                                      Customer View Tabel
                                                               
 <img width="1629" height="1049" alt="Customer View Tabel" src="https://github.com/user-attachments/assets/ba79bbbe-1357-42c4-aa2d-1c868e258327" />
 
@@ -175,26 +175,28 @@ Microsoft Excel
   - Check Data Quality in power query, did some DAX Measures, create "Date Calendar", and make relationships modeling in power query.
 
 
-                                                              Calendar Table Created 
+                                      Calendar Table Created 
                                                               
 <img width="1920" height="1051" alt="Calendar Table Created " src="https://github.com/user-attachments/assets/e1c66ace-fc03-4f5f-add8-96d18a208b23" />
 
+-
 
 
 
-
-                                                              Data Modoling Relationships 
+                                      Data Modoling Relationships 
                                                               
 <img width="1920" height="1073" alt="Data Modoling Relationships " src="https://github.com/user-attachments/assets/0561e22e-c2a9-401d-9e53-a034bb1ee830" />
 
+-
 
 
-
-                                                              Some Dax For KPIS Performance 
+                                      Some Dax For KPIS Performance 
                                                               
 <img width="1711" height="1050" alt="Some Dax For KPIS Performance " src="https://github.com/user-attachments/assets/79626759-7d91-4655-807d-967751046349" />
 
 
+-
+-
 
   - Use Pivot table to make clear analytics grafts 
   - Designing 5 connected dashboards  ("Home" Navigation central, "Sales", "Customer", "Product", "Profit")
