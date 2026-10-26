@@ -202,31 +202,32 @@ Microsoft Excel
   - Bar/Column charts, donut/pie charts, line chart, plot area, and comparison tables
   - Filter panels for each dashboard like (Country, Region, Segment, State, Ship Mode, Dates Group (Month, Quarter, Day))
   - Keeping the same visual style and layout across all dashboards for a connected story
+-
 
-                                                            Sample Home Page Navigation 
+                                        Sample Home Page Navigation 
 <img width="1920" height="1072" alt="Sample Home Page Navigation " src="https://github.com/user-attachments/assets/c6f9c604-4002-4c02-8d25-e7164a889adc" />
 
+-
 
-
-                                                              1- Sales Page
+                                          1- Sales Page
                                                               
 <img width="1920" height="1073" alt="1- Sales Page" src="https://github.com/user-attachments/assets/65f803f9-0f7f-4971-94c4-0b0507ec43be" />
 
+-
 
-
-                                                              2- Product Page 
+                                          2- Product Page 
                                                               
 <img width="1920" height="1077" alt="2- Product Page" src="https://github.com/user-attachments/assets/e406961f-8c7e-4976-99ff-154671e108d5" />
 
+-
 
-
-                                                              3- Customer Page 
+                                          3- Customer Page 
                                                               
 <img width="1920" height="1072" alt="3- Customer Page" src="https://github.com/user-attachments/assets/4f509767-6935-4115-bf48-a711596dcf00" />
 
+-
 
-
-                                                              4- Profit Page 
+                                          4- Profit Page 
                                                               
 <img width="1920" height="1070" alt="4- Profit Page" src="https://github.com/user-attachments/assets/7eb4c791-bd4f-4af1-a580-ba820c95fa3f" />
 
@@ -436,6 +437,9 @@ Steps Possible With Current Data.
 - Add MoM Revenue Growth, Profit Growth, Margin Change to measure the monthly changes already seen.
 
 Needs additional data
+
 1- Customer Analytics 
+
 2- Cost/COGS-based margin breakdown
+
 3- Forecasting 
